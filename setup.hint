@@ -1,0 +1,4 @@
+category: KDE Devel
+requires: libgcc1 libkdecore5 libkdevplatform1 libQtCore4 libQtDBus4 libQtGui4 libstdc++6 libxml2 libxslt
+sdesc: "KDE XSL debugger"
+ldesc: "KDE web development suite"
